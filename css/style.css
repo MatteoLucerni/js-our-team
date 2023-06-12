@@ -1,7 +1,11 @@
-.card{
-    height: 500px;
+.card img{
+    margin-bottom: 20px;
 }
 
 img{
     max-height: 100%;
+}
+
+#main{
+    row-gap: 50px;
 }
