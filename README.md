@@ -1,0 +1,6 @@
+- Preliminari:
+  - Prendo il target dal DOM
+  - Creo un array di oggetti con i dati del team
+- **FINO A CHE** raggiungo la lunghezza dell'array:
+  - **FINO A CHE** non raggiungo la lunghezza dell'oggetto:
+    - Prendo ogni elemento e lo stampo nel target
