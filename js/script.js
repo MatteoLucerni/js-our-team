@@ -39,7 +39,7 @@ let profile = '';
 for (let worker of workers) {
   profile += `
     <div class="col-4">
-        <div class="card border-0 text-center">
+        <div class="card text-center">
         <img src="img/${worker.image}" alt="team-member">
         <h4>${worker.identity}</h4>
         <p>${worker.role}</p>
